@@ -1,0 +1,38 @@
+body {
+	margin: 0;
+	background-color: #7D515A;
+}
+header {
+  	padding: 180px;
+  	background-image: url(https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?cs=srgb&dl=atmosphere-cloudiness-clouds-844297.jpg&fm=jpg);
+  	background-size: cover ;
+  }
+
+  header h1 {
+  	text-transform: uppercase;
+  	font-weight: bold;
+  	font-size: 48px;
+    text-align: center;
+	  color: white;
+
+}
+
+.container {
+	margin: 0 auto;
+	width: 700px;
+  margin-top: 120px;
+  background-color: #F2F1F7;
+  padding: 30px 10px;
+  border-radius: 10px;
+  font-size: 26px;
+}
+
+button {
+    background-color: #7999b1;
+    border-radius: 6px;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 26px;
+}
